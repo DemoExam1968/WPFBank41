@@ -30,3 +30,35 @@ G:\Работа\Работа 2026-2027\Занятия\МДК.01.01 Програ�
 G:\Работа\Работа 2026-2027\Занятия\МДК.01.01 Программисты\2 год обучения. Группа 41\Совместные проекты\WPFCalculator\obj\Debug\WPFCalculator.csproj.CoreCompileInputs.cache
 G:\Работа\Работа 2026-2027\Занятия\МДК.01.01 Программисты\2 год обучения. Группа 41\Совместные проекты\WPFCalculator\obj\Debug\WPFCalculator.exe
 G:\Работа\Работа 2026-2027\Занятия\МДК.01.01 Программисты\2 год обучения. Группа 41\Совместные проекты\WPFCalculator\obj\Debug\WPFCalculator.pdb
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\bin\Debug\WPFCalculator.exe.config
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\bin\Debug\WPFCalculator.exe
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\bin\Debug\WPFCalculator.pdb
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.csproj.AssemblyReference.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\App.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator_MarkupCompile.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator_MarkupCompile.lref
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\MainWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.g.resources
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.Properties.Resources.resources
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.csproj.GenerateResource.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.exe
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculator\obj\Debug\WPFCalculator.pdb
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\bin\Debug\WPFCalculator.exe.config
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\bin\Debug\WPFCalculator.exe
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\bin\Debug\WPFCalculator.pdb
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.csproj.AssemblyReference.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\MainWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\App.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator_MarkupCompile.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator_MarkupCompile.lref
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\MainWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.g.resources
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.Properties.Resources.resources
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.csproj.GenerateResource.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.exe
+C:\Users\matisik-i-a\Desktop\Studs\2026-2027\41\WPFCalculatorRef\obj\Debug\WPFCalculator.pdb

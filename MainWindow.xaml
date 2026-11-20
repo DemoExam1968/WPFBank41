@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFCalculator"
         mc:Ignorable="d"
-        Title="Калькулятор" Height="450" Width="700" Background="#FFEAD9ED"
-        MinWidth="700" MinHeight="450">
+        Title="Калькулятор" Height="400" Width="700" Background="#FFEAD9ED"
+        MinWidth="400" MinHeight="450">
     <Grid>
         <!--Разбивка окна на ячейки-->
         <Grid.ColumnDefinitions>
@@ -29,11 +29,11 @@
         <TextBox x:Name="tbSecord" Grid.Row="1" Grid.Column="2" FontSize="20"
                  Margin="20 50"/>
         <UniformGrid Grid.Row="1" Grid.Column="1" Background="Aqua" Columns="3" Rows="2">
-            <Button x:Name="btnAdd" Content="+" FontSize="50" Click="btnAdd_Click"/>
-            <Button x:Name="btnSub" Content="-" FontSize="50" Click="btnSub_Click"/>
-            <Button x:Name="btnMul" Content="*" FontSize="50" Click="btnMul_Click"/>
+            <Button x:Name="btnAdd" Content="+" FontSize="50" Click="btnDiv_Click"/>
+            <Button x:Name="btnSub" Content="-" FontSize="50" Click="btnDiv_Click"/>
+            <Button x:Name="btnMul" Content="*" FontSize="50" Click="btnDiv_Click"/>
             <Button x:Name="btnDiv" Content="/" FontSize="50" Click="btnDiv_Click"/>
-            <Button x:Name="btnXY" Content="x^y" FontSize="30" Click="btnXY_Click" />
+            <Button x:Name="btnXY" Content="x^y" FontSize="30" Click="btnDiv_Click" />
             <Button x:Name="btnClaer" Content="C" FontSize="30" Click="btnClaer_Click" />
         </UniformGrid>
         <TextBlock x:Name="tbResult" Grid.Row="2" Grid.Column="1" Text="Ответ" FontSize="20"
